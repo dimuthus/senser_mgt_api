@@ -299,6 +299,6 @@ class __TwigTemplate_20e1dac83e65a51fecdb6d3776095d091c6a1cb0a7048b95bd0c9640ee9
 
                 //]]></script>
         {% endblock %}
-", "sensor_detail/index.html.twig", "D:\\wamp64\\www\\sensor_monitor\\sensor_monitor_api\\templates\\sensor_detail\\index.html.twig");
+", "sensor_detail/index.html.twig", "F:\\sensor_monitor_api\\templates\\sensor_detail\\index.html.twig");
     }
 }

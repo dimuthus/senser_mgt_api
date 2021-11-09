@@ -139,6 +139,6 @@ class __TwigTemplate_7489ab9acea8d95795e222e7864eed9e611b8b693d458d74123fdca629d
     <script src=\"https://code.jquery.com/jquery-3.5.1.min.js\"></script>
     <script src=\"https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js\"></script>
     <script src=\"https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js\"></script>
-{% endblock %}", "sensor_detail/_form.html.twig", "D:\\wamp64\\www\\sensor_monitor\\sensor_monitor_api\\templates\\sensor_detail\\_form.html.twig");
+{% endblock %}", "sensor_detail/_form.html.twig", "F:\\sensor_monitor_api\\templates\\sensor_detail\\_form.html.twig");
     }
 }

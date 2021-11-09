@@ -948,7 +948,7 @@ return [[
 
 0 => 'N;',
 1 => [],
-2 => 1607973541,
+2 => 1636268299,
 3 => static function () {
     return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
         $o = [
@@ -1335,7 +1335,7 @@ return [[
                     '/api/v1/sensor/{uuid}/metrics',
                 ],
                 'name' => [
-                    'rest_get_sensor_alerts',
+                    'rest_get_sensor_metrics',
                 ],
                 'methods' => [
                     [

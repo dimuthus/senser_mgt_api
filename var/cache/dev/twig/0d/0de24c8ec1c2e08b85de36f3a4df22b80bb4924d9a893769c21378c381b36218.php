@@ -208,6 +208,6 @@ class __TwigTemplate_f7a3ca39e68a915bb3bfe7cbaf6bbb4bf1bb84632d5fed7a66a2cc48672
 
     <a href=\"{{ path('blog_post_new') }}\">Create new</a>
 {% endblock %}
-", "blog_post/index.html.twig", "D:\\wamp64\\www\\sensor_monitor\\sensor_monitor_api\\templates\\blog_post\\index.html.twig");
+", "blog_post/index.html.twig", "F:\\sensor_monitor_api\\templates\\blog_post\\index.html.twig");
     }
 }

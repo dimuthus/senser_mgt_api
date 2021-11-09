@@ -117,6 +117,6 @@ class __TwigTemplate_a32cdcefe91d762d35ef5c343558fe0b7ccf6dab8e9704be13428da2a45
 
     <a href=\"{{ path('sensor_detail_index') }}\">back to list</a>
 {% endblock %}
-", "sensor_detail/new.html.twig", "D:\\wamp64\\www\\sensor_monitor\\sensor_monitor_api\\templates\\sensor_detail\\new.html.twig");
+", "sensor_detail/new.html.twig", "F:\\sensor_monitor_api\\templates\\sensor_detail\\new.html.twig");
     }
 }

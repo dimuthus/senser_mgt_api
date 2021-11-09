@@ -143,6 +143,6 @@ class __TwigTemplate_f6cbb487770ebe6d14bf7227c79ed6e96718cbd10a21a265805d321b0a1
         {% block javascripts %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "D:\\wamp64\\www\\sensor_monitor\\sensor_monitor_api\\templates\\base.html.twig");
+", "base.html.twig", "F:\\sensor_monitor_api\\templates\\base.html.twig");
     }
 }

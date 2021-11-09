@@ -187,6 +187,6 @@ class __TwigTemplate_5960c258db4719738956407533dc0b6adec5d102744b7d492f9ea44ef19
 
     {{ include('sensor_detail/_delete_form.html.twig') }}
 {% endblock %}
-", "sensor_detail/show.html.twig", "D:\\wamp64\\www\\sensor_monitor\\sensor_monitor_api\\templates\\sensor_detail\\show.html.twig");
+", "sensor_detail/show.html.twig", "F:\\sensor_monitor_api\\templates\\sensor_detail\\show.html.twig");
     }
 }

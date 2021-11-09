@@ -78,6 +78,6 @@ class __TwigTemplate_497a297a5414f2804ce2d62ab8b58681a18b0cfc7144e26fa6d63127b50
     {{ form_widget(form) }}
     <button class=\"btn\">{{ button_label|default('Save') }}</button>
 {{ form_end(form) }}
-", "blog_post/_form.html.twig", "D:\\wamp64\\www\\sensor_monitor\\sensor_monitor_api\\templates\\blog_post\\_form.html.twig");
+", "blog_post/_form.html.twig", "F:\\sensor_monitor_api\\templates\\blog_post\\_form.html.twig");
     }
 }

@@ -75,6 +75,6 @@ class __TwigTemplate_3fdbfad698bbc7591b5b26fde180c2ca284d0082aae1589fffd15632179
     <input type=\"hidden\" name=\"_token\" value=\"{{ csrf_token('delete' ~ sensor_detail.id) }}\">
     <button class=\"btn\">Delete</button>
 </form>
-", "sensor_detail/_delete_form.html.twig", "D:\\wamp64\\www\\sensor_monitor\\sensor_monitor_api\\templates\\sensor_detail\\_delete_form.html.twig");
+", "sensor_detail/_delete_form.html.twig", "F:\\sensor_monitor_api\\templates\\sensor_detail\\_delete_form.html.twig");
     }
 }

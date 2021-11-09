@@ -115,6 +115,6 @@ class __TwigTemplate_27d592d02d7eb61a32f9d57143777f64bb10956f2ffe497049866aaddc4
 
     <a href=\"{{ path('blog_post_index') }}\">back to list</a>
 {% endblock %}
-", "blog_post/new.html.twig", "D:\\wamp64\\www\\sensor_monitor\\sensor_monitor_api\\templates\\blog_post\\new.html.twig");
+", "blog_post/new.html.twig", "F:\\sensor_monitor_api\\templates\\blog_post\\new.html.twig");
     }
 }

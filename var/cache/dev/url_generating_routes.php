@@ -16,5 +16,6 @@ return [
     'sensor_detail_delete' => [['id'], ['_controller' => 'App\\Controller\\SensorDetailController::delete'], [], [['variable', '/', '[^/]++', 'id', true], ['text', '/admin/sensor']], [], []],
     'rest_add_sensor_measurement' => [['uuid'], ['_controller' => 'App\\Controller\\SensorMeasurementController::add_sensor_measurement'], [], [['text', '/mesurements'], ['variable', '/', '[^/]++', 'uuid', true], ['text', '/api/v1/sensor']], [], []],
     'rest_get_sensor_measurement' => [['uuid'], ['_controller' => 'App\\Controller\\SensorMeasurementController::get_sensor_measurement'], [], [['variable', '/', '[^/]++', 'uuid', true], ['text', '/api/v1/sensor']], [], []],
-    'rest_get_sensor_alerts' => [['uuid'], ['_controller' => 'App\\Controller\\SensorMeasurementController::get_sensor_metrics'], [], [['text', '/metrics'], ['variable', '/', '[^/]++', 'uuid', true], ['text', '/api/v1/sensor']], [], []],
+    'rest_get_sensor_alerts' => [['uuid'], ['_controller' => 'App\\Controller\\SensorMeasurementController::get_sensor_alerts'], [], [['text', '/alerts'], ['variable', '/', '[^/]++', 'uuid', true], ['text', '/api/v1/sensor']], [], []],
+    'rest_get_sensor_metrics' => [['uuid'], ['_controller' => 'App\\Controller\\SensorMeasurementController::get_sensor_metrics'], [], [['text', '/metrics'], ['variable', '/', '[^/]++', 'uuid', true], ['text', '/api/v1/sensor']], [], []],
 ];
